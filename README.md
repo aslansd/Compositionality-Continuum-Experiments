@@ -135,18 +135,6 @@ The recorded outputs were produced with `QUICK = False` on a GPU runtime (`devic
 
 ---
 
-## Repository contents
-
-```
-Compositionality_Continuum_Experiments.ipynb   62 cells, outputs included
-figures/                                        14 figures extracted from the run
-paper_neuralnet2026.tex                         extended abstract (NeuralNet 2026)
-paper_cosyne.tex                                two-page abstract (Cosyne, anonymized)
-README.md
-```
-
----
-
 ## Citing the source paper
 
 ```bibtex
